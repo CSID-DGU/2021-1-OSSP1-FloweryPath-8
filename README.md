@@ -23,12 +23,12 @@ Requirement
 ---------
 #### Unknown 문장   
 입력 :   
-![image](https://user-images.githubusercontent.com/80958412/122686262-203a3d80-d24b-11eb-9ca5-d05c319f80de.png)
+![image](https://user-images.githubusercontent.com/80958412/122686262-203a3d80-d24b-11eb-9ca5-d05c319f80de.png)   
 출력 :   
-![image](https://user-images.githubusercontent.com/80958412/122686324-54156300-d24b-11eb-8fec-db6238875637.png)
+![image](https://user-images.githubusercontent.com/80958412/122686324-54156300-d24b-11eb-8fec-db6238875637.png)   
 
 #### 혐오성 문장
 입력 :   
-![image](https://user-images.githubusercontent.com/80958412/122686363-81faa780-d24b-11eb-9f84-b15b4fa866ec.png)
+![image](https://user-images.githubusercontent.com/80958412/122686363-81faa780-d24b-11eb-9f84-b15b4fa866ec.png)   
 출력 :   
-![image](https://user-images.githubusercontent.com/80958412/122686368-8fb02d00-d24b-11eb-9d7e-a79f010d8400.png)
+![image](https://user-images.githubusercontent.com/80958412/122686368-8fb02d00-d24b-11eb-9d7e-a79f010d8400.png)   
