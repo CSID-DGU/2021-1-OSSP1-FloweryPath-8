@@ -28,12 +28,12 @@ Requirement
 주요 기술   
 ---------
 
-## Open Set Recognition   
+### Open Set Recognition   
 기계학습을 시킬 때 주어진 모델로는 구분할 수 없는 데이터들을 Unknown이라는 새로운 클래스를 도입하여 정의함으로써 더 다양하고 정확한 결과를 도출할 수 있도록 하는 학습 방법론
 이 프로젝트에서는 OpenMax를 이용하여 구현   
 
-## 합성곱 신경망(CNN)   
-자연어 처리를 위해 1D CNN 적용
+### 합성곱 신경망(CNN)   
+자연어 처리를 위해 1D CNN 적용   
 ![image](https://user-images.githubusercontent.com/80958412/122702135-b2f9cd00-d289-11eb-8eef-c49ac7fc3100.png)   
 [사진출처: https://wikidocs.net]   
 
